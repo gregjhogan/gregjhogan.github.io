@@ -4,4 +4,4 @@ layout: single
 permalink: /about/
 ---
 
-ME!
+My name is ~~Gerg~~ Greg
