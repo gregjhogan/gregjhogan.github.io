@@ -1,5 +1,5 @@
 ---
-title: "Post: Hello World!"
+title: "Hello World!"
 categories:
   - blog
 tags:
@@ -7,3 +7,6 @@ tags:
 ---
 
 # Hello World!
+* 1
+* 2
+* 3
