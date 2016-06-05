@@ -1,7 +1,5 @@
 ---
 title: "Hello World!"
-categories:
-  - blog
 tags:
   - first post
 ---
