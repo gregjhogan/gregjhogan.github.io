@@ -1,10 +1,9 @@
 ---
 title: "Post: Hello World!"
-excerpt_separator: "<!--more-->"
 categories:
-  - testing
+  - blog
 tags:
-  - test post
+  - first post
 ---
 
 #Hello World!
