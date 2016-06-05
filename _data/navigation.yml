@@ -2,7 +2,10 @@
 main:
 
   - title: posts
-    url: /posts/
+    url: /
+
+  - title: archive
+    url: /archive/
 
   - title: about
     url: /about/
